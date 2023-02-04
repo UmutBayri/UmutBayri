@@ -1,2 +1,2 @@
 <h1 align="center">Umut Can</h1>
-<h3 align="center">Mathematics</h3>
+<h3 align="center">Mathematics and python</h3>
